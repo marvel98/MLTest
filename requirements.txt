@@ -1,2 +1,1 @@
 joblib
-tensorflow==2.18.0
